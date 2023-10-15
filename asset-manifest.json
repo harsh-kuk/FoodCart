@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Foodcart/static/css/main.f0ca8e26.css",
+    "main.js": "/Foodcart/static/js/main.50fb7f36.js",
+    "static/media/meals.jpg": "/Foodcart/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/Foodcart/index.html",
+    "main.f0ca8e26.css.map": "/Foodcart/static/css/main.f0ca8e26.css.map",
+    "main.50fb7f36.js.map": "/Foodcart/static/js/main.50fb7f36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0ca8e26.css",
+    "static/js/main.50fb7f36.js"
+  ]
+}
